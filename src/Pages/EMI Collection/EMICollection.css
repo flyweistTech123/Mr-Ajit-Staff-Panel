@@ -1,0 +1,63 @@
+.emicollection {
+}
+
+
+
+.emicollection1{
+    width: 80%;
+    margin-top: 80px;
+}
+
+.emicollection2 {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  margin-top: 30px;
+}
+
+.emicollection2 label {
+  font-family: "Poppins", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0.2px;
+  color: #000000;
+  margin: 0;
+}
+
+.emicollection2 select {
+  width: 100%;
+  height: 42px;
+  background: #ffffff;
+  border: 1px solid #97979766;
+  outline: none;
+  padding: 10px 20px 10px 20px;
+  border-radius: 4px;
+  font-family: "DM Sans", sans-serif;
+  font-size: 12.77px;
+  font-weight: 500;
+  line-height: 19.15px;
+  letter-spacing: 0.5%;
+  color: #979797;
+  margin: 0;
+}
+
+.emicollection3 {
+  width: 100%;
+  height: auto;
+  background: #ffffff;
+  border: 1px solid #97979766;
+  outline: none;
+  padding: 10px 20px 10px 20px;
+  border-radius: 4px;
+  display: flex;
+  align-items: center;
+}
+
+
+
+.emicollection3 input{
+    flex: 1;
+    border: none;
+    outline: none;
+}

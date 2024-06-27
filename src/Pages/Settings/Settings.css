@@ -1,0 +1,181 @@
+.setting1 {
+  margin-top: 50px;
+  margin-bottom: 50px;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+}
+
+.setting2 {
+  width: 100%;
+  height: auto;
+  border-bottom: 1px solid #2e4658;
+  background: #ffffff;
+  border-radius: 10px;
+  box-shadow: 0px 8.81px 56px 0px #0000001a;
+  padding-bottom: 25px;
+}
+
+.setting3 {
+  width: 90%;
+  margin: auto;
+}
+
+.setting4 {
+  border-bottom: 1px solid #2e4658;
+  padding-bottom: 10px;
+  padding-top: 10px;
+}
+
+.setting4 p {
+  font-family: "Nunito Sans", sans-serif;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 27.28px;
+  color: #2e4658;
+  margin: 0;
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
+
+.setting5 {
+  margin-top: 40px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.setting6 {
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+}
+
+.setting6 h6 {
+  font-family: "Nunito Sans", sans-serif;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 27.28px;
+  color: #000000;
+  margin: 0;
+}
+
+.setting6 span {
+  font-family: "Nunito Sans", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 19.1px;
+  color: #f44336;
+  margin: 0;
+}
+
+.setting7 {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.setting7 input {
+  width: 379.73px;
+  height: 45px;
+  border: 1px solid #979797;
+  padding-left: 10px;
+  border-radius: 10px;
+  outline: none;
+}
+
+.setting8 {
+}
+
+.setting9 {
+}
+
+.setting9 p {
+  font-family: "Ubuntu", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 20px;
+  letter-spacing: 1%;
+  color: #71717a;
+  margin: 0;
+}
+
+
+.setting10{
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.setting11{
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+
+.setting12 {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.setting13 {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.setting13 label {
+  font-family: "Poppins", sans-serif;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 24px;
+  letter-spacing: 1%;
+  color: #2e4658;
+  margin: 0;
+}
+
+.setting12 input[type="text"] {
+  width: 412.68px;
+  height: 44.89px;
+  border: 0.5px solid #2f5a76;
+  padding-left: 15px;
+  border-radius: 40px;
+  outline: none;
+}
+
+.setting12 input[type="text"]::placeholder {
+  font-family: "Ubuntu", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 1%;
+  color: #71717a99;
+  margin: 0;
+}
+
+.setting14 {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.setting14 h6 {
+  font-family: "Poppins", sans-serif;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 27px;
+  letter-spacing: 1%;
+  color: #2e4658;
+  margin: 0;
+}
+
+.setting14 p {
+  font-family: "Poppins", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 20px;
+  letter-spacing: 1%;
+  color: #71717A;
+  margin: 0;
+}

@@ -1,0 +1,557 @@
+.newapplication {
+  height: 100%;
+  background: #ffffff;
+  box-shadow: 6px 6px 54px 0px #0000000d;
+  padding: 32px;
+  border-radius: 14px;
+}
+
+.newapplication1 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-top: 20%;
+}
+
+.newapplication2 {
+  width: 300px;
+  height: 277px;
+}
+
+.newapplication3 {
+  text-align: center;
+}
+
+.newapplication3 h6 {
+  font-family: "Poppins", sans-serif;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 24px;
+  letter-spacing: 0.2px;
+  color: #000000;
+  margin: 0;
+}
+
+.newapplication4 {
+  margin-top: 20px;
+}
+
+.newapplication4 input {
+  width: 100%;
+  height: 41px;
+  border-radius: 10px;
+  border: 1px solid #000000;
+  padding-left: 10px;
+  outline: none;
+}
+
+.newapplication4 input::placeholder {
+  font-family: "Poppins", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 21px;
+  letter-spacing: 0.2px;
+  color: #0000004a;
+  margin: 0;
+  text-align: center;
+}
+
+.newapplication5 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  margin-top: 15px;
+}
+
+.newapplication5 input[type="checkbox"] {
+  width: 20px;
+  height: 20px;
+  border-radius: 7px;
+  background: #ffffff;
+  border: 1px solid #000000;
+}
+
+.newapplication5 label {
+  font-family: "DM Sans", sans-serif;
+  font-size: 10px;
+  font-weight: 400;
+  line-height: 12.32px;
+  color: #000000;
+  margin: 0;
+}
+
+.newapplication5 span {
+  font-family: "DM Sans", sans-serif;
+  font-size: 10px;
+  font-weight: 500;
+  line-height: 12.32px;
+  color: #47b2ff;
+  margin: 0;
+}
+
+.newapplication6 {
+  text-align: center;
+  margin-top: 25px;
+}
+
+.newapplication6 button {
+  width: 100%;
+  height: auto;
+  border-radius: 10px;
+  padding: 10px;
+  background: #47b2ff;
+  border: 1px solid #47b2ff;
+  outline: none;
+  font-family: "Poppins", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 21px;
+  color: #ffffff;
+  margin: 0;
+  cursor: pointer;
+}
+
+.newapplication7 {
+  text-align: center;
+  margin-top: 15px;
+}
+
+.newapplication7 p {
+  font-family: "DM Sans", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 17.25px;
+  color: #4e4c4c;
+  margin: 0;
+}
+
+.newapplication7 span {
+  font-family: "DM Sans", sans-serif;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 17.25px;
+  color: #0072BB;
+  margin: 0;
+}
+
+.newapplication8 {
+  margin-top: 50px;
+}
+
+.newapplication9 {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.newapplication9 select {
+  width: 100%;
+  height: 42px;
+  border-radius: 8px;
+  background: #ffffff;
+  border: 1px solid #dadada;
+  outline: none;
+  padding-left: 15px;
+  font-family: "Poppins", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 19.15px;
+  letter-spacing: 0.5%;
+  color: #4d4e50;
+  margin: 0;
+}
+
+.newapplication9 input {
+  width: 100%;
+  height: 42px;
+  border-radius: 8px;
+  background: #ffffff;
+  border: 1px solid #dadada;
+  outline: none;
+  padding-left: 15px;
+  font-family: "Poppins", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 19.15px;
+  letter-spacing: 0.5%;
+  color: #4d4e50;
+  margin: 0;
+}
+
+.newapplication10 {
+  width: 100%;
+  height: 42px;
+  border-radius: 8px;
+  background: #ffffff;
+  border: 1px solid #dadada;
+  outline: none;
+  padding-left: 15px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-right: 60px;
+}
+
+.newapplication10 label {
+  font-family: "Poppins", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 19.15px;
+  letter-spacing: 0.5%;
+  color: #4d4e50;
+  margin: 0;
+}
+
+.newapplication11 {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+.newapplication12 {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.newapplication12 p {
+  font-family: "Poppins", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 28px;
+  color: #2e4658;
+  margin: 0;
+}
+
+.newapplication13 {
+  display: flex;
+  align-items: center;
+  justify-content: end;
+  margin-top: 20px;
+  gap: 20px;
+}
+
+.newapplication13 button:nth-child(1) {
+  width: 146.98px;
+  height: auto;
+  border-radius: 8.8px;
+  padding: 13.2px 14.07px 13.2px 14.07px;
+  background: transparent;
+  border: 1.34px solid #2e4658;
+  outline: none;
+  font-family: "Mulish", sans-serif;
+  font-size: 15.03px;
+  font-weight: 600;
+  line-height: 20.12px;
+  color: #2e4658;
+  margin: 0;
+  cursor: pointer;
+}
+
+.newapplication13 button:nth-child(2) {
+  width: 146.98px;
+  height: auto;
+  border-radius: 8.8px;
+  padding: 13.2px 14.07px 13.2px 14.07px;
+  background: #2196F3;
+  border: 1.34px solid #2196F3;
+  outline: none;
+  font-family: "Mulish", sans-serif;
+  font-size: 15.03px;
+  font-weight: 600;
+  line-height: 20.12px;
+  color: #ffffff;
+  margin: 0;
+  cursor: pointer;
+}
+
+.newapplication14 {
+  width: 80%;
+  margin: auto;
+}
+
+.newapplication15 {
+  margin-top: 50px;
+}
+
+.newapplication16 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.newapplication17 {
+  display: flex;
+  align-items: center;
+}
+
+.newapplication18 {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  background: #2196F3;
+  border: 1px solid #2196F3;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.newapplication18 p {
+  font-family: "Inter", sans-serif;
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 21.78px;
+  color: #ffffff;
+  margin: 0;
+}
+
+.newapplication19 {
+  width: 27.67px;
+  border-top: 2px solid #2196F3;
+}
+
+.newapplication20 {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  background: transparent;
+  border: 1px solid #2196F3;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.newapplication20 p {
+  font-family: "Inter", sans-serif;
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 21.78px;
+  color: #2196F3;
+  margin: 0;
+}
+
+.newapplication21 {
+  background: #ffffff;
+  width: 80%;
+  margin: auto;
+  margin-top: 50px;
+  border-radius: 8px;
+}
+
+.newapplication22 {
+  padding: 70px;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+}
+
+.newapplication23 {
+  display: grid;
+  align-items: center;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 30px;
+}
+
+.newapplication24 {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+
+.newapplication24 label {
+  font-family: "Poppins", sans-serif;
+  font-size: 13px;
+  font-weight: 400;
+  line-height: 19.5px;
+  letter-spacing: 0.2px;
+  color: #000000;
+  margin: 0;
+}
+
+.newapplication24 input {
+  width: 100%;
+  height: 36px;
+  border-radius: 5px;
+  background: #f9fafb;
+  border: 1px solid #dadada;
+  outline: none;
+  padding-left: 15px;
+}
+
+.newapplication24 input::placeholder {
+  font-family: "Poppins", sans-serif;
+  font-size: 13px;
+  font-weight: 400;
+  line-height: 19.5px;
+  letter-spacing: 0.2px;
+  color: #c2c2c2;
+  margin: 0;
+}
+
+.newapplication25 button {
+  width: 110px;
+  height: auto;
+  border-radius: 6.58px;
+  padding: 9.88px 10.53px 9.88px 10.53px;
+  background: transparent;
+  border: 1px solid #2e4658;
+  outline: none;
+  font-family: "Mulish", sans-serif;
+  font-size: 12px;
+  font-weight: 700;
+  line-height: 15.06px;
+  color: #2e4658;
+  margin: 0;
+  cursor: pointer;
+}
+
+.newapplication26 {
+  display: flex;
+  align-items: center;
+  justify-content: end;
+}
+
+.newapplication26 button {
+  width: 146.98px;
+  height: auto;
+  border-radius: 8.8px;
+  padding: 13.2px 14.07px 13.2px 14.07px;
+  background: #2196F3;
+  border: 1.34px solid #2196F3;
+  outline: none;
+  font-family: "Mulish", sans-serif;
+  font-size: 15.03px;
+  font-weight: 600;
+  line-height: 20.12px;
+  color: #ffffff;
+  margin: 0;
+  cursor: pointer;
+}
+
+.newapplication27 {
+  display: flex;
+  align-items: center;
+  margin-top: 15px;
+  gap: 20px;
+}
+
+.newapplication27 button:nth-child(1) {
+  width: 167px;
+  height: auto;
+  border-radius: 6.58px;
+  padding: 9.88px 10.53px 9.88px 10.53px;
+  background: transparent;
+  border: 1.34px solid #2e4658;
+  outline: none;
+  font-family: "Mulish", sans-serif;
+  font-size: 12px;
+  font-weight: 700;
+  line-height: 15.06px;
+  color: #2e4658;
+  margin: 0;
+  cursor: pointer;
+}
+
+.newapplication27 button:nth-child(2) {
+  width: 110px;
+  height: auto;
+  border-radius: 6.58px;
+  padding: 9.88px 10.53px 9.88px 10.53px;
+  background: #2196F3;
+  border: 1.34px solid #2196F3;
+  outline: none;
+  font-family: "Mulish", sans-serif;
+  font-size: 12px;
+  font-weight: 700;
+  line-height: 15.06px;
+  color: #ffffff;
+  margin: 0;
+  cursor: pointer;
+}
+
+.newapplication28 {
+  margin-top: 100px;
+  text-align: center;
+}
+
+.newapplication29 {
+}
+
+.newapplication29 h1 {
+  font-family: "Nunito Sans", sans-serif;
+  font-size: 74px;
+  font-weight: 700;
+  line-height: 100.94px;
+  color: #0000004d;
+  margin: 0;
+}
+
+.newapplication30 {
+  position: absolute;
+  bottom: 0;
+  right: 30px;
+}
+
+.newapplication30 button {
+  width: 146.98px;
+  height: auto;
+  border-radius: 8.8px;
+  padding: 13.2px 14.07px 13.2px 14.07px;
+  background: #2196F3;
+  border: 1.34px solid #2196F3;
+  outline: none;
+  font-family: "Mulish", sans-serif;
+  font-size: 15.03px;
+  font-weight: 600;
+  line-height: 20.12px;
+  color: #ffffff;
+  margin: 0;
+  cursor: pointer;
+}
+
+/* ApplicationFourthFormmodal */
+
+.newapplication32 {
+  display: flex;
+  align-items: center;
+  justify-content: end;
+  cursor: pointer;
+}
+
+.newapplication33 {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.newapplication33 img {
+}
+
+.newapplication33 h6 {
+  font-family: "Nunito Sans", sans-serif;
+  font-size: 26px;
+  font-weight: 700;
+  line-height: 20px;
+  color: #2196f3;
+  margin: 0;
+  padding-bottom: 20px;
+}
+
+.newapplication34 {
+  width: 40px;
+  height: 40px;
+  margin: 0 5px;
+  text-align: center;
+  font-size: 18px;
+  border: 1px solid #0072BB;
+  border-radius: 8px;
+  box-shadow: 0px 2px 4px 0px #00000040;
+}
+
+.newapplication34:focus {
+  border: 1px solid #0072BB;
+  outline: none;
+  box-shadow: 0px 2px 4px 0px #00000040;
+}

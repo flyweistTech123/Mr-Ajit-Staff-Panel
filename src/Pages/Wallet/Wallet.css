@@ -1,0 +1,261 @@
+.wallet1 {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 50px;
+  width: 90%;
+  margin-top: 30px;
+}
+
+.wallet2 {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.wallet3 {
+  width: auto;
+  height: auto;
+  padding: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.wallet3 p {
+  font-family: "Nunito Sans", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 20px;
+  color: #4d4e50;
+  margin: 0;
+}
+
+.wallet4 {
+  display: flex;
+  align-items: center;
+  justify-content: end;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  gap: 20px;
+}
+
+.wallet4 button:nth-child(1) {
+  width: auto;
+  height: auto;
+  border-radius: 8px;
+  padding: 10px;
+  background-color: #00f076;
+  border: none;
+  outline: none;
+  font-family: "Nunito Sans", sans-serif;
+  font-size: 13px;
+  font-weight: 600;
+  line-height: 17.73px;
+  color: #2e4658;
+  margin: 0;
+  cursor: pointer;
+}
+
+.wallet4 button:nth-child(2) {
+  width: auto;
+  height: auto;
+  border-radius: 8px;
+  padding: 10px;
+  background-color: #f44336;
+  border: none;
+  outline: none;
+  font-family: "Nunito Sans", sans-serif;
+  font-size: 13px;
+  font-weight: 600;
+  line-height: 17.73px;
+  color: #ffffff;
+  margin: 0;
+  cursor: pointer;
+}
+
+.wallet5 {
+  margin-top: 100px;
+}
+
+.wallet6 {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.wallet7 {
+}
+
+.wallet7 p {
+  font-family: "Nunito Sans", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  color: #000000;
+  letter-spacing: 0.2px;
+  margin: 0;
+}
+
+.wallet8 {
+  width: 400px;
+  height: 100px;
+  background: #ffffff;
+  border: 1px solid #dadada;
+  border-radius: 8px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.wallet9 {
+  width: 293px;
+  height: 70px;
+  border-radius: 10px;
+  border: 1px dotted #4d4e50;
+  text-align: center;
+}
+
+.wallet9 p {
+  font-family: "Nunito Sans", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  color: #4d4e50;
+  letter-spacing: 0.2px;
+  margin: 0;
+  padding-top: 10px;
+}
+
+.wallet9 span {
+  font-family: "Nunito Sans", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  color: #4d4e50;
+  letter-spacing: 0.2px;
+  text-decoration: underline;
+  margin: 0;
+}
+
+.wallet10 {
+  margin-top: 50px;
+}
+
+.wallet11 {
+  display: flex;
+  align-items: center;
+  gap: 30px;
+}
+
+.wallet12 {
+  width: auto;
+  height: auto;
+  padding: 32.13px;
+  border-radius: 12px;
+  background: #ffffff;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  cursor: pointer;
+}
+
+.wallet13 {
+  width: auto;
+  height: auto;
+  padding: 19.28px 32.13px 19.28px 32.13px;
+  border-radius: 9.64px;
+  background-color: #f1f1f1;
+}
+
+.wallet13 p {
+  font-family: "Lexend", sans-serif;
+  font-size: 19px;
+  font-weight: 700;
+  line-height: 23.75px;
+  color: #2e4658;
+  margin: 0;
+}
+
+.wallet14 {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+
+.wallet14 p {
+  font-family: "Lexend", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 20px;
+  color: #e57676;
+  margin: 0;
+}
+
+.wallet14 span {
+  font-family: "Lato", sans-serif;
+  font-size: 25px;
+  font-weight: 900;
+  line-height: 38.4px;
+  letter-spacing: 7%;
+  color: #e57676;
+  margin: 0;
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
+
+.wallet15 {
+  margin-top: 50px;
+}
+
+.wallet16 {
+  width: 279px;
+  height: auto;
+  padding: 20px;
+  background-color: #f1f4f9;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.userdetails11 {
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 5px;
+}
+
+.userdetails11 p {
+  font-family: "Poppins", sans-serif;
+  font-size: 13px;
+  font-weight: 500;
+  line-height: 19.5px;
+  color: #000000;
+  letter-spacing: 0.2px;
+  margin: 0;
+}
+
+.userdetails12 {
+  cursor: pointer;
+}
+
+.userdetails12 p {
+  font-family: "Poppins", sans-serif;
+  font-size: 13px;
+  font-weight: 500;
+  line-height: 19.5px;
+  color: #000000;
+  letter-spacing: 0.2px;
+  margin: 0;
+}
+
+.userdetails14 {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 30px;
+  margin-top: 30px;
+}
