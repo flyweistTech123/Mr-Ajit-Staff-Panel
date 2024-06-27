@@ -17,7 +17,7 @@ import img from '../../Img/img11.png'
 
 const Dashboard = () => {
 
-    const percentage = 70;
+    const percentage = 80;
     const navigate = useNavigate()
 
 
